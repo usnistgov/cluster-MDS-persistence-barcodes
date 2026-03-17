@@ -1,4 +1,4 @@
-# cluster-MDS-barcodes
+# cluster-MDS-persistence-barcodes
 
 Code to accompany the manuscript 
 
