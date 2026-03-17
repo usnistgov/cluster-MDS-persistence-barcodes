@@ -1,0 +1,33 @@
+# cluster-MDS-barcodes
+
+Code to accompany the manuscript 
+
+**Clustering Persistence Barcodes of Multidimensional Scaling Representations from Random Initial Configurations**
+
+Melinda A. Kleczynski
+melinda.kleczynski@nist.gov
+
+Anthony J. Kearsley
+anthony.kearsley@nist.gov
+
+## Software
+
+* [Python](https://www.python.org/) 3.13.2
+* [Matplotlib](https://matplotlib.org/stable/) 3.10.1  
+* [NumPy](https://numpy.org/doc/stable/index.html) 2.2.4 
+* [oat_python](https://github.com/OpenAppliedTopology/oat_python) 0.1.1
+* [scikit-learn](https://scikit-learn.org/stable/index.html) 1.7.0
+* [SciPy](https://docs.scipy.org/doc/scipy/index.html) 1.15.2 
+
+Certain equipment, instruments, software, or materials are identified in this paper in order to specify the experimental procedure adequately.
+Such identification is not intended to imply recommendation or endorsement of any product or service by NIST, nor is it intended to imply 
+that the materials or equipment identified are necessarily the best available for the purpose.
+
+## Data
+
+Data are from the Columbia Object Image Library (COIL).
+
+* [COIL-100](https://cave.cs.columbia.edu/repository/COIL-100) (used in the tomato, cat food, and cheeseburger examples)
+* [COIL-20](https://cave.cs.columbia.edu/repository/COIL-20) (used in the toy duck example)
+
+The data are not included in this repository, and need to be downloaded separately.
