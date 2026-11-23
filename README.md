@@ -2,7 +2,7 @@
 
 Code to accompany the manuscript 
 
-**Clustering Persistence Barcodes of Multidimensional Scaling Representations from Random Initial Configurations**
+[Clustering Persistence Barcodes of Multidimensional Scaling Representations from Random Initial Configurations](https://www.ajs.or.at/index.php/ajs/article/view/2321)
 
 Melinda A. Kleczynski
 melinda.kleczynski@nist.gov
