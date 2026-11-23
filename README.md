@@ -27,7 +27,7 @@ that the materials or equipment identified are necessarily the best available fo
 
 Data are from the Columbia Object Image Library (COIL).
 
-* [COIL-100](https://cave.cs.columbia.edu/repository/COIL-100) (used in the tomato, cat food, and cheeseburger examples)
-* [COIL-20](https://cave.cs.columbia.edu/repository/COIL-20) (used in the toy duck example)
+* [COIL-100](https://cave.cs.columbia.edu/repository/COIL-100) (includes the tomato dataset)
+* [COIL-20](https://cave.cs.columbia.edu/repository/COIL-20) (includes the toy duck dataset)
 
 The data are not included in this repository, and need to be downloaded separately.
